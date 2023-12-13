@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Sneha Ramadas
+I am an enthusiastic graduate student majoring in Software Engineering at Arizona State University, passionate about full-stack development and leveraging my skills to create seamless and robust solutions.
+
+I'm proficient in Python programming, Software Development and Web Development.
+I'm passionate about working in Agile environments and leveraging DevOps principles.
+Connect with me on:
+
+LinkedIn: <a href="https://www.linkedin.com/in/sneha-ramadas/">Sneha Ramadas</a>
+Email : sneharamadas10100@gmail.com
 
 <!--
 **sramada6/sramada6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
